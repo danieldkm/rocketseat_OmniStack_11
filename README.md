@@ -19,6 +19,8 @@
 - https://insomnia.rest/ - rest client
 - http://knexjs.org/     - ORM para banco de dados
 
+# Conceitos
+
 ## Rota / recurso
  
 ## Métodos HTTP:
