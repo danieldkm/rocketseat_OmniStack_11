@@ -19,6 +19,10 @@
 - https://insomnia.rest/ - rest client
 - http://knexjs.org/     - ORM para banco de dados
 
+
+# Documentação Back-end
+- https://documenter.getpostman.com/view/2048976/SzYT5MqZ?version=latest
+
 # Conceitos
 
 ## Rota / recurso
