@@ -11,6 +11,7 @@
 - /backend npx knex migrate:latest
 - /backend npx knex migrate:rollback
 - /backend npx knex migrate:status
+# comandos - dia 3
 
 # ferramentas
 - https://www.notion.so/ - anotações, lista de todo
@@ -18,7 +19,10 @@
 - https://expo.io/       - rodar apps em android e iphone
 - https://insomnia.rest/ - rest client
 - http://knexjs.org/     - ORM para banco de dados
-
+- Icones:
+    - https://fontawesome.com/
+    - https://feathericons.com/
+    - https://material.io/resources/icons/?style=baseline
 
 # Documentação Back-end
 - https://documenter.getpostman.com/view/2048976/SzYT5MqZ?version=latest
