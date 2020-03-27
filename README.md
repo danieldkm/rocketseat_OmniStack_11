@@ -12,11 +12,24 @@
 - /backend npx knex migrate:rollback
 - /backend npx knex migrate:status
 # comandos - dia 3
+# comandos - dia 4
+- npm install -g expo-cli
+- expo -h
+- expo init mobile
+- npm install @react-navigation/native
+- expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view  
+- npm install @react-navigation/stack
+- expo install expo-constants
+- expo install expo-mail-composer
+- npm install axios
+- npm install intl
 
 # ferramentas
 - https://www.notion.so/ - anotações, lista de todo
 - https://www.figma.com/ - design de interface colaborativa
 - https://expo.io/       - rodar apps em android e iphone
+- https://github.com/Rocketseat/expo-common-issues - comandos comuns do expo pela RocketSeat
+- https://snack.expo.io/ - rodar app online - nao recomendado
 - https://insomnia.rest/ - rest client
 - http://knexjs.org/     - ORM para banco de dados
 - Icones:
@@ -50,3 +63,8 @@
 ## Banco de dados
 - SQL: MySQL, SQLite, PostgreSQL, ORACLE, Microsoft SQL Server
 - NoSQL: MongoDB, CouchDB, etc
+
+## React Native
+- Não utiliza as mesmas tags do html
+- Não há semantica igual no html web
+- O style é um objeto
