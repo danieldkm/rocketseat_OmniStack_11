@@ -23,6 +23,12 @@
 - expo install expo-mail-composer
 - npm install axios
 - npm install intl
+# comandos - dia 5
+- npm install celebrate // validação dos dados de requisição
+- npm install jest // testes automatizados
+- npx jest --init
+- npm install cross-env
+- npm install supertest --save-dev / -D // biblioteca para realizar requisições HTTP para testes de integração.
 
 # ferramentas
 - https://www.notion.so/ - anotações, lista de todo
@@ -68,3 +74,12 @@
 - Não utiliza as mesmas tags do html
 - Não há semantica igual no html web
 - O style é um objeto
+
+## Deploy de app
+- heroku (gratuito para teste) / digital ocean para node exemplo no canal do rocketseat do youtube.
+- https://www.netlify.com/ (especifico para front) para react
+
+## Estudos
+- Padrões de código: ESLint, Prettier
+- Autenticação JWT
+- Styled Components
